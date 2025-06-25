@@ -23,6 +23,6 @@ This project is a **Power BI dashboard** designed to analyze the performance of 
 
 ```bash
 superstore-sales-dashboard/
-├── f1b0f89b-9753-4516-b98c-32f9efbed1a4.png  # Dashboard image
+├── Store Sales Dashboard.png  # Dashboard image
 ├── README.md                                # Project documentation
-└── SuperStore_Dashboard.pbix (Optional)     # Power BI file (if included)
+└── SuperStore_Sales_Dataset.csv   # Dataset used
